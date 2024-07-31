@@ -1,0 +1,81 @@
+.box1{
+    width: 50%;
+    height: 200px;
+    background-color: #ffffff;
+    float: left;
+    position: relative;
+}
+
+.box2{
+    width: 20%;
+    height: 200px;
+    background-color: #ffffff;
+    float: left;
+    margin-left: 0%;
+}
+
+.title{
+    font-family: "Black Han Sans", sans-serif;
+    font-size: 40px;
+    margin-left: 3px;
+    margin-top: 5px;
+    left: 0px;
+    color: black;
+    text-decoration: none;
+}
+
+.title:hover{
+    color: gray;
+    text-decoration: underline;
+}
+
+.content{
+    font-family: "Gowun Batang", serif;
+    font-size: 20px;
+    margin-top: 0px;
+    margin-left: 0%;
+    top: 0px;
+    left: 0px;
+}
+
+.main-img{
+    width: 85%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    border-radius: 3px;
+}
+
+.reaction{
+    position: absolute;
+    margin-bottom: 0px;
+    margin-right: 0px;
+    bottom: 0px;
+    right: 0px;
+}
+
+.time{
+    position: absolute;
+    margin-bottom: 0px;
+    bottom: 0px;
+}
+
+.top{
+    width: 70%;
+    height: 100px;
+    background-color: grey;
+    position: fixed;
+    top: 0px;
+    z-index: 2;
+}
+
+.wrap{
+    padding-top: 90px;
+}
+
+.search{
+    position:absolute;
+    top: 10px;
+    left:200px;
+}

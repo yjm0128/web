@@ -1,0 +1,39 @@
+.wrap{
+    width: 100%;
+}
+
+.bgi{
+    width: 100%;
+    height: 270px;
+    position: fixed;
+    top: 0px;
+    border: 1px solid black;
+}
+
+.main{
+    width: 100%;
+    height: 2500px;
+    margin-top: -50px;
+    position: relative;
+    background-color: #ffffff;
+}
+
+.top{
+    width: 100%;
+    height: 240px;
+    background-color: aqua;
+    top: 0px;
+}
+
+.title{
+    text-align: center;
+    font-size: 80px;
+    margin-top: 0%;
+    top: 0px;
+}
+
+.comment{
+    background-color: grey;
+    width: 90px;
+    height: 30px;
+}
